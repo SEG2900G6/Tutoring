@@ -11,7 +11,7 @@ Rodrigue Macaire Fosto Kamga- Student number 300549610
 Huy Vu Nguyen - Student number 300545862
 Max-Darryl Edzoa - Student number 3005
 
-Product Name: LockdIn
+Product Name: Lockd1n
 
 Description:
 LockdIn is a a tutoring service offered by LockdIn Studios that offer
